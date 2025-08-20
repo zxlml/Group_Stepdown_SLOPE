@@ -1,3 +1,3 @@
 # Group_Stepdown_SLOPE 
 
-Codes of our paper, under review.
+Codes and theoretical Proof of our paper, under review.
